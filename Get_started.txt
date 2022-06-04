@@ -12,5 +12,6 @@ Start listener:
 3) python listener.py
 
 Start API-service:
-1) cd message_handler\
-2) python manage.py runserver
+1) Enable Postges service
+2) cd message_handler\
+3) python manage.py runserver
