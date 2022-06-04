@@ -6,12 +6,12 @@ python -m pip install --upgrade pip
 Loading libraries:
 pip install -r requirements.txt
 
-Start listener:
+Enable->start listener:
 1) Enable Kafka service
 2) cd listener\
 3) python listener.py
 
-Start API-service:
+Enable->start API-service:
 1) Enable Postges service
 2) cd message_handler\
 3) python manage.py runserver
